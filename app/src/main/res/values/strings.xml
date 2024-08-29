@@ -1,0 +1,28 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">ਬੋਲਚਾਲ ਹੀ ਇਨਸਾਨ ਦਾ ਗਹਿਣਾ ਹੁੰਦੀ ਹੈ  ਸ਼ਕਲ ਤਾਂ ਉਮਰ ਤੇ ਹਾਲਾਤਾਂ ਨਾਲ ਬਦਲ ਜਾਂਦੀ ਹੈ .</string>
+    <string name="affirmation2">ਕੁੱਝ ਸਵਾਲ ਜਿੰਦਗੀ ਦੇ ਅਜਿਹੇ ਹੁੰਦੇ ਹਨ .. ਜਿੰਨਾ ਦਾ ਜਵਾਬ ਬੰਦਾ ਨਹੀ ਵਕਤ ਦਿੰਦਾ ..</string>
+    <string name="affirmation3">ਓੁਡਾਰੀ ਉਨੀ ਕ ਭਰੀਏ  ਜਿੰਨੀ ਕੁ ਖੰਭਾਂ ਚ ਜਾਨ ਹੋਵੇ ਕਿਸੇ ਦੇ ਸਹਾਰੇ ਮੰਜਿਲ ਤੱਕਣਾ ਬੇਵਕੂਫੀ ਦੀ ਨਿਸ਼ਾਨੀ ਹੁੰਦੀ ਆ.</string>
+    <string name="affirmation4">ਨਾਲ ਤਿੰਨ ਚਾਰ ਰਹਿੰਦੇ ਜੋ ਹਜਾਰਾਂ ਵਰਗੇ ਲੋਕੀ ਲੱਭਦੇ ਨੇ ਯਾਰ ਸਾਡੇ ਯਾਰਾਂ ਵਰਗੇ</string>
+    <string name="affirmation5">ਮੰਜ਼ਿਲਾਂ ਭਾਵੇਂ ਜਿੰਨੀਆਂ ਮਰਜੀ ਉੱਚੀਆਂ ਹੋਣ ਪਰ ਰਸਤੇ ਤਾਂ ਹਮੇਸ਼ਾਂ ਪੈਰਾਂ ਥੱਲੇ ਹੁੰਦੇ ਨੇ</string>
+    <string name="affirmation6">ਬੁੱਲੇ ਸ਼ਾਹ ਰੰਗ ਫਿੱਕੇ ਹੋ ਗਏ ਤੇਰੇ ਬਾਝੋਂ ਸਾਰੇ ਤੂੰ ਤੂੰ ਕਰਕੇ ਜਿੱਤ ਗਏ ਸੀ ਮੈਂ ਮੈਂ ਕਰਕੇ ਹਾਰੇ</string>
+    <string name="affirmation7">ਜੀਵਨ ਵਿੱਚ ਜਦ ਕੁਝ ਵੱਡਾ ਮਿਲ ਜਾਵੇ ਤਾਂ ਛੋਟੇ ਨੂੰ ਕਦੀ ਨਹੀਂ ਭੁਲਣਾ ਚਾਹੀਦਾ, ਕਿਉਂਕਿ ਜਿੱਥੇ ਸੂਈ ਦਾ ਕੰਮ ਹੈ, ਉੱਥੇ ਤਲਵਾਰ ਕੰਮ ਨਹੀਂ ਕਰਦੀ।</string>
+    <string name="affirmation8">ਐਨੀਆਂ ਠੋਕਰਾਂ ਦੇਣ ਲਈ ਤੇਰਾ ਵੀ ਧੰਨਵਾਦ ਐ ਜ਼ਿੰਦਗੀ ਚੱਲਣ ਦਾ ਨਹੀਂ ਸੰਭਲ਼ਣ ਦਾ ਹੁਨਰ ਤਾਂ ਆ ਹੀ ਗਿਆ</string>
+    <string name="affirmation9">ਬੁਰੇ ਲੋਕ ਮੈਨੂੰ ਇਸ ਲਈ ਚੰਗੇ ਲੱਗਦੇ. ਕਿਓੁਂਕਿ ਉਹ ਚੰਗੇ ਹੋਣ ਦਾ ਕਦੀ ਨਾਟਕ ਨਹੀ ਕਰਦੇ.</string>
+    <string name="affirmation10">ਬੇ ਹਿਮਤੀ ਨੇ ਜੋ ਸ਼ਿਕਵਾ ਕਰਨ ਮੁਕਦਰਾ ਦਾ. ਉੱਗਣ ਵਾਲੇ ਉੱਗ ਪੈਂਦੇ ਨੇ ਪਾੜ੍ਹ ਕੇ ਸੀਨਾ ਪੱਥਰਾਂ ਦਾ</string>
+</resources>
